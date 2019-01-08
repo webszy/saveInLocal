@@ -1,10 +1,11 @@
-# en<a href="#en"></a>
+[english](#en)
+[中文|Chinese](#zh)
 
+<p id="en">en</p> 
 ## saveInLocal
 help you manage your storage with one function (support localStorage\sessionStorage\cookie)
 
-# zh<a href="#zh"></a>
-
+<p id="zh">en</p> 
 ## saveInLocal
 
 > 这是一个简单JS文件，帮助你实现对本地存储的综合管理，支持 localStorage\sessionStorage\cookie。
